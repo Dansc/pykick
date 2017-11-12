@@ -1,0 +1,165 @@
+1, art/conceptual art
+3, comics
+6, dance/performances
+7, design/product design
+9, fashion/apparel
+10, food/restaurants
+11, film & video/documentary
+12, games/mobile games
+13, journalism/print
+14, music/indie rock
+15, photography/places
+16, technology
+17, theater/musical
+18, publishing/fiction
+20, art/conceptual art
+21, art/digital art
+22, art/illustration
+23, art/painting
+24, art/performance art
+25, art/sculpture
+26, crafts
+27, design/graphic design
+28, design/product design
+29, film & video/animation
+30, film & video/documentary
+31, film & video/narrative film
+32, film & video/shorts
+33, film & video/webseries
+34, games/tabletop games
+35, games/video games
+36, music/classical music
+37, music/country & folk
+38, music/electronic music
+39, music/hip-hop
+40, music/indie rock
+41, music/jazz
+42, music/pop
+43, music/rock
+44, music/world music
+45, publishing/art books
+46, publishing/children's books
+47, publishing/fiction
+48, publishing/nonfiction
+49, publishing/periodicals
+50, publishing/poetry
+51, technology/software
+52, technology/hardware
+53, art/public art
+54, art/mixed media
+239, publishing/radio & podcasts
+241, music/metal
+249, comics/anthologies
+250, comics/comic books
+251, comics/events
+252, comics/graphic novels
+253, comics/webcomics
+254, dance/performances
+255, dance/residencies
+256, dance/spaces
+257, dance/workshops
+258, design/architecture
+259, design/civic design
+260, design/interactive design
+261, design/typography
+262, fashion/accessories
+263, fashion/apparel
+264, fashion/childrenswear
+265, fashion/couture
+266, fashion/footwear
+267, fashion/jewelry
+268, fashion/pet fashion
+269, fashion/ready-to-wear
+270, games/gaming hardware
+271, games/live games
+272, games/mobile games
+273, games/playing cards
+274, games/puzzles
+275, photography/animals
+276, photography/fine art
+277, photography/nature
+278, photography/people
+279, photography/places
+280, photography/photobooks
+281, theater/experimental
+282, theater/festivals
+283, theater/immersive
+284, theater/musical
+285, theater/plays
+286, theater/spaces
+287, art/ceramics
+288, art/installations
+289, art/textiles
+290, art/video art
+291, film & video/action
+292, film & video/comedy
+293, film & video/drama
+294, film & video/experimental
+295, film & video/festivals
+296, film & video/fantasy
+297, film & video/horror
+298, film & video/movie theaters
+299, film & video/music videos
+300, film & video/romance
+301, film & video/science fiction
+302, film & video/thrillers
+303, film & video/television
+304, food/bacon
+305, food/community gardens
+306, food/cookbooks
+307, food/drinks
+308, food/events
+309, food/farms
+310, food/farmer's markets
+311, food/food trucks
+312, food/restaurants
+313, food/small batch
+314, food/spaces
+315, food/vegan
+316, music/blues
+317, music/chiptune
+318, music/faith
+319, music/kids
+320, music/latin
+321, music/punk
+322, music/r&b
+323, publishing/academic
+324, publishing/anthologies
+325, publishing/calendars
+326, publishing/literary journals
+327, publishing/translations
+328, publishing/young adult
+329, publishing/zines
+330, film & video/family
+331, technology/3d printing
+332, technology/apps
+333, technology/camera equipment
+334, technology/diy electronics
+335, technology/fabrication tools
+336, technology/flight
+337, technology/gadgets
+338, technology/robots
+339, technology/sound
+340, technology/space exploration
+341, technology/wearables
+342, technology/web
+343, crafts/candles
+344, crafts/crochet
+345, crafts/diy
+346, crafts/embroidery
+347, crafts/glass
+348, crafts/knitting
+349, crafts/letterpress
+350, crafts/pottery
+351, crafts/printing
+352, crafts/quilts
+353, crafts/stationery
+354, crafts/taxidermy
+355, crafts/weaving
+356, crafts/woodworking
+357, journalism/audio
+358, journalism/photo
+359, journalism/print
+360, journalism/video
+361, journalism/web
+362, technology/makerspaces
